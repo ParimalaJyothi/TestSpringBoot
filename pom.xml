@@ -80,7 +80,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>Sample-snap</id>
-			<url>http://ec2-3-16-191-205.us-east-2.compute.amazonaws.com:8081/repository/Sample-snap/</url>
+			<url>http://ec2-18-191-111-249.us-east-2.compute.amazonaws.com:8081/repository/Sample-snap/</url>
 		</snapshotRepository>
 	</distributionManagement>	
 	
